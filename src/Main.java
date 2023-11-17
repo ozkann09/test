@@ -10,7 +10,7 @@ public class Main {
 
             // Subtraction
             public static int subtract(int num1, int num2) {
-                return num1 - num2;
+                return num1 - num2 ;
             }
 
             // Multiplication
